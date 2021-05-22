@@ -1,0 +1,7 @@
+{
+  "museumId": "museum123",
+  "museumName": "Palazzo Reale",
+  "floors": ["1","2","3"],
+  "zones": ["zone1","zone2","zone3"],
+  "entrances": ["Entrance1","Entrance2"]
+}
