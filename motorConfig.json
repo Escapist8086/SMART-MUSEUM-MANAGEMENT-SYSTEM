@@ -1,0 +1,11 @@
+{
+  "deviceId": "motor287513",
+  "broker": "localhost",
+  "port": 1883,
+  "motorTopic": "/Polito/iot/SMMS/museum01/floor1/gate1/motor",
+  "switchTopic":"/Polito/iot/SMMS/museum01/mainSwitch",
+  "floor":"1",
+  "enterZone":"zone1",
+  "leavingZone":"zone2",
+  "homeCatAddress": "localhost:8090"
+}

@@ -1,0 +1,11 @@
+{
+  "deviceId": "laser287513",
+  "broker": "localhost",
+  "port": 1883,
+  "laserTopic": "/Polito/iot/SMMS/museum01/floor1/gate1/laser",
+  "switchTopic": "/Polito/iot/SMMS/museum01/mainSwitch",
+  "floor": "1",
+  "enterZone": "zone1",
+  "leavingZone": "zone2",
+  "homeCatAddress": "127.0.0.1:8090"
+}

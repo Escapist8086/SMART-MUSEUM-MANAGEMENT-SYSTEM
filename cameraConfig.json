@@ -1,0 +1,12 @@
+{
+  "deviceId": "camera287513",
+  "broker": "localhost",
+  "port": 1883,
+  "cameraTopic": "/Polito/iot/SMMS/museum01/floor1/gate1/camera",
+  "switchTopic":"/Polito/iot/SMMS/museum01/mainSwitch",
+  "floor":"1",
+  "entranceId":"Entrance1",
+  "motorControllerId":"motor1",
+  "homeCatAddress": "localhost:8090",
+  "RESTaddr":  "http://192.168.43.122:8091"
+}
