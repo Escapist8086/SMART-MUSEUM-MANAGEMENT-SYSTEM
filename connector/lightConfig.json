@@ -1,0 +1,10 @@
+{
+  "deviceId": "light287513",
+  "broker": "localhost",
+  "port": 1883,
+  "lightTopic": "/Polito/iot/SMMS/museum01/floor1/gate1/light",
+  "switchTopic":"/Polito/iot/SMMS/museum01/mainSwitch",
+  "floor":"1",
+  "controlZone":"zone1",
+  "homeCatAddress": "http://localhost:8090"
+}
